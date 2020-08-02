@@ -39,7 +39,7 @@ header{
 nav ul li a{
 	color: white;
 	text-decoration: none;
-	font-family:Calibri (Body);
+	font-family: 'Open Sans', sans-serif;
 }
 nav ul li a:hover{
 	color: red;
